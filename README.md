@@ -22,7 +22,27 @@ Here are some ideas to get you started:
 
 ## Education
 
-## Internaships
+1. Sep,2019 - Jun,2022
+Master of Education in Psychology											
+Institute of Brain and Psychological Sciences, Sichuan Normal University at Chengdu, Sichuan, China
+
+2. Sep,2015 - Jun,2019
+Bachelor of Science in Mathematics												
+Shihezi University at Shihezi, Xinjiang, China
+
+## Experience
+
+- Feb,2024 – Feb,2025
+  -  Research Assistant
+  -  Mental Health Center, West China Hospital of Sichuan University, Chengdu, Sichuan, China
+ 
+- Jul,2023 – Feb,2024
+	-  Math Lecturer
+	-  Geely University of China, Chengdu, Sichuan, China
+
+- Jul,2022 – Jul,2023
+	-  Research Assistant
+	-  Sichuan Normal University, Chengdu, Sichuan, China 
 
 ## Publication
 
