@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm Xiaoyu Jiang
+- Ph.D student in Neuroeconomic Decision-making at SISU in Shanghai, China 🇨🇳
+
+## Reserch Interests
+
+## Education
+
+## Internaships
+
+## Publication
+
+**# Equal Contribution, * Corresponding**
+
+- Jiang, X., Tian, Y., Zhang, Z., Zhou, C., & Yuan, J. (2022). The counterproductive effect of right anodal/left cathodal transcranial direct current stimulation over the dorsolateral prefrontal cortex on impulsivity in methamphetamine addicts. Frontiers in Psychiatry, 13, 915440. https://www.frontiersin.org/articles/10.3389/fpsyt.2022.915440/
+
+## Pre-registrations
+
+## Conferences Presentation
+
+## Awards
+
+## Ongoing Projects
+
+
