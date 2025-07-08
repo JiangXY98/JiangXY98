@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I'm Xiaoyu Jiang
 - Ph.D student in Neuroeconomic Decision-making at SISU in Shanghai, China 🇨🇳
 
-## Reserch Interests
+## Research Interests
 
 The effects of emotion, cognition, and environment on human decision-making.
 
