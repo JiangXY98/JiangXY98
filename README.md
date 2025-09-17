@@ -24,11 +24,15 @@ The effects of emotion, cognition, and environment on human decision-making.
 
 ## Education
 
-1. Sep,2019 - Jun,2022
+1. Sep, 2025 - Present
+	- Ph.D student in Neuroeconomic Decision-making
+ 	- Shanghai International Studies University at Shanghai, China
+
+3. Sep,2019 - Jun,2022
 	- Master of Education in Psychology											
 	- Institute of Brain and Psychological Sciences, Sichuan Normal University at Chengdu, Sichuan, China
 
-2. Sep,2015 - Jun,2019
+4. Sep,2015 - Jun,2019
 	- Bachelor of Science in Mathematics												
 	- Shihezi University at Shihezi, Xinjiang, China
 
