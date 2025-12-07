@@ -55,7 +55,7 @@ The effects of emotion, cognition, and environment on human decision-making.
 **# Equal Contribution, * Corresponding**
 
 - Jiang, X.#, Tian, Y.#, Zhang, Z., Zhou, C., & Yuan, J.* (2022). The counterproductive effect of right anodal/left cathodal transcranial direct current stimulation over the dorsolateral prefrontal cortex on impulsivity in methamphetamine addicts. *Frontiers in Psychiatry*, 13, 915440. https://www.frontiersin.org/articles/10.3389/fpsyt.2022.915440/
-- Jiang, X.#, Liu, J.#, Yang, J., Gao, Y., Shuai, P., & Yuan, J*. (2025). The effect of anodal transcranial direct current stimulation on affective impulsivity in methamphetamine users: A randomized experimental study. Addiction, add.70259. https://doi.org/10.1111/add.70259
+- Jiang, X.#, Liu, J.#, Yang, J., Gao, Y., Shuai, P., & Yuan, J.* (2025). The effect of anodal transcranial direct current stimulation on affective impulsivity in methamphetamine users: A randomized experimental study. Addiction, add.70259. https://doi.org/10.1111/add.70259
 
 
 ## Ongoing Projects
