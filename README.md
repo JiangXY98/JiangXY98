@@ -58,7 +58,7 @@ The effects of emotion, cognition, and environment on human decision-making.
 - **Jiang, X.**#, Liu, J.#, Yang, J., Gao, Y., Shuai, P., & Yuan, J.* (2025). The effect of anodal transcranial direct current stimulation on affective impulsivity in methamphetamine users: A randomized experimental study. Addiction, add.70259. https://doi.org/10.1111/add.70259
 - He, J., Wang, R., Li, J., **Jiang, X.**, Zhou, C., & Liu, J. (2023). Effect of transcranial direct current stimulation over the left dorsolateral prefrontal cortex on the aggressive behavior in methamphetamine addicts. Journal of Psychiatric Research, 164, 364～371. https://doi.org/10.1016/j.jpsychires.2023.06.038
 - Lin, D., Shen, Q., An, Y., Fu, S., Xiao, Q., Wu, S., Song, X., **Jiang, X.**, Klucharev, V., Cai, D., & Wang, Y. (2026). Assessing the roles of subjective value and valence in outcome evaluation for consumer products: Evidence from behavioral and electrophysiological experiments. Acta Psychologica, 262, 106011. https://doi.org/10.1016/j.actpsy.2025.106011
-
+- Lin, D., Sun, H., Shen, Q., **Jiang, X.**, Fu, S., Xiao, Q., Wu, S., Klucharev, V., Shestakova, A., & Wang, Y. (2026). Decision for self and other modulates risk attitude and electrophysiological processing: Evidence from a behavioral and electrophysiological experiment. Cerebral Cortex, 36(2), bhag001. https://doi.org/10.1093/cercor/bhag001
 
 
 ## Ongoing Projects
